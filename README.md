@@ -5,6 +5,8 @@ Nesse curso é ensinado a contribuir com projetos de código aberto.
 
 Link para o curso [Python Pro](https://www.python.pro.br/)
 
+[![Build Status](https://travis-ci.org/rlemos37/libpytthonpro.svg?branch=master)](https://travis-ci.org/rlemos37/libpytthonpro)
+
 Para instalar:
 ```console
 python3 -venv .venv
