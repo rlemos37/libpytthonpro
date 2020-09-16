@@ -5,6 +5,19 @@ Nesse curso é ensinado a contribuir com projetos de código aberto.
 
 Link para o curso [Python Pro](https://www.python.pro.br/)
 
+Para instalar:
+```console
+python3 -venv .venv
+source .venv/bin/activate
+pip install -r requirements-dev.txt
+```
+
+Para conferir qualidade do código:
+
+```console
+flake8
+```
+
 Suportada versão 3 de Python
 
 Tópicos a serem abordados:
