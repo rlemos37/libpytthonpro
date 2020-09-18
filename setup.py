@@ -96,7 +96,7 @@ def find_package_data(
 
 PACKAGE = "libpytthonpro"
 NAME = PACKAGE
-DESCRIPTION = "Módulo para exemplificar a construção de projetos Python no curso PyTools"
+DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
 AUTHOR = "Rone Lemos da Silva"
 AUTHOR_EMAIL = "lemos_007_@hotmail.com"
 URL = "https://github.com/rlemos37/libpytthonpro"
