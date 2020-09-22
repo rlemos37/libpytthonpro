@@ -8,6 +8,7 @@ Link para o curso [Python Pro](https://www.python.pro.br/)
 [![Build Status](https://travis-ci.org/rlemos37/libpytthonpro.svg?branch=master)](https://travis-ci.org/rlemos37/libpytthonpro)
 [![Updates](https://pyup.io/repos/github/rlemos37/libpytthonpro/shield.svg)](https://pyup.io/repos/github/rlemos37/libpytthonpro/)
 [![Python 3](https://pyup.io/repos/github/rlemos37/libpytthonpro/python-3-shield.svg)](https://pyup.io/repos/github/rlemos37/libpytthonpro/)
+[![codecov](https://codecov.io/gh/rlemos37/libpytthonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/rlemos37/libpytthonpro)
 
 Para instalar:
 ```console
