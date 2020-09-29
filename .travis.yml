@@ -7,7 +7,5 @@ install:
 script:
   - flake8
   - pytest libpytthonpro --cov=libpytthonpro
-
 after_success:
   - codecov
-  - bash <(curl -s https://codecov.io/bash)
