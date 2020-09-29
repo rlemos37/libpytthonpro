@@ -10,7 +10,7 @@ Link para o curso [Python Pro](https://www.python.pro.br/)
 [![Python 3](https://pyup.io/repos/github/rlemos37/libpytthonpro/python-3-shield.svg)](https://pyup.io/repos/github/rlemos37/libpytthonpro/)
 [![codecov](https://codecov.io/gh/rlemos37/libpytthonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/rlemos37/libpytthonpro)
 
-Para instalar:
+Para Instalar:
 ```console
 python3 -venv .venv
 source .venv/bin/activate
