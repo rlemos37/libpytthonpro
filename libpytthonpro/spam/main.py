@@ -1,5 +1,5 @@
 class EnviadorDeSpam:
-    def __init__(self,sessao, enviador):
+    def __init__(self, sessao, enviador):
         self.sessao = sessao
         self.enviador = enviador
 
